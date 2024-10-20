@@ -1,5 +1,5 @@
 Qmart is a marketplace web application developed with Django.
-I developed this project to enhance my Django skills. Huge thanks to CodeWithStein for the fantastic tutorial!
+I developed this project to enhance my Django skills. Huge thanks to and freeCodeCamp and CodeWithStein for the fantastic tutorial!
 
 ![image](https://github.com/user-attachments/assets/bfc3a4a6-ea5b-47a3-953d-45da16d387a6)
 ![image](https://github.com/user-attachments/assets/8bad5c28-ad3c-4c21-a4e9-2de1f13ad802)
