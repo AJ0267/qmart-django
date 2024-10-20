@@ -4,6 +4,7 @@ I developed this project to enhance my Django skills. Huge thanks to CodeWithSte
 ![image](https://github.com/user-attachments/assets/b5180fc1-9907-4204-a46b-a3072eddfe9d)
 ![image](https://github.com/user-attachments/assets/271917a1-c851-4b1c-a92d-dd0229bb977b)
 ![image](https://github.com/user-attachments/assets/b521cb0b-5798-42ae-b474-a863867a31e9)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/08b16c0f-f337-48df-bde8-485e3be24d7a)
+
 
 
