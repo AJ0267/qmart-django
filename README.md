@@ -6,7 +6,7 @@ I developed this project to enhance my Django skills. Huge thanks to CodeWithSte
 ![image](https://github.com/user-attachments/assets/4a0f402f-5e85-4d5f-988e-0273c78bde60)
 ![image](https://github.com/user-attachments/assets/01f09c32-530d-4a25-8085-43f9a9365d7e)
 ![image](https://github.com/user-attachments/assets/e22595b5-8e35-41b0-bf1d-5c0735f3fd3b)
-![image](https://github.com/user-attachments/assets/9767a752-6704-42a7-8c2c-363282f6fbf4
+![image](https://github.com/user-attachments/assets/9767a752-6704-42a7-8c2c-363282f6fbf4)
 ![image](https://github.com/user-attachments/assets/fe7d439b-8c3f-4c69-99ad-fb7b6169d57b)
 
 
